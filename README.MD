@@ -9,7 +9,7 @@ I write code sometimes
   <a href="https://discord.com/users/216974427248787458">Discord</a><br>
 </details>
 
-[![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/pys1k)
+[![GitHub Pysik](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/pys1k)
 [![Website](https://img.shields.io/badge/Website-pysik.club-2648ff?style=flat-square&logo=google-chrome)](https://pysik.club)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
