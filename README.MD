@@ -26,7 +26,7 @@ I write code sometimes
 </a>
 
 <a href="https://github.com/Pys1k">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zebratic&show_icons=true&theme=dark&line_height=27" alt="Zebratic's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pys1k&show_icons=true&theme=dark&line_height=27" alt="Pysik's github stats"/>
 </a>
 
 <a href="https://github.com/Pys1k/Pysik.Club-v2">
