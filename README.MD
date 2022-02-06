@@ -1,6 +1,6 @@
 
 
-<img src="https://discord.c99.nl/widget/theme-5/216974427248787458.png"/>
+<img src="https://discord.c99.nl/widget/theme-4/216974427248787458.png"/>
 
 - 🔭 I’m currently working on [Rust cheat - Enchanted](https://github.com/Zebratic/Enchanted-Rust), [ESP8266-DeAuther](https://github.com/Zebratic/ESP8266-DeAuther).
 <details>
