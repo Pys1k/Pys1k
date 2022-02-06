@@ -2,14 +2,14 @@ I write code sometimes
 
 <img src="https://discord.c99.nl/widget/theme-4/216974427248787458.png"/>
 
-- 🔭 I’m currently working on [Rust cheat - Enchanted](https://github.com/Zebratic/Enchanted-Rust), [ESP8266-DeAuther](https://github.com/Zebratic/ESP8266-DeAuther).
+- 🔭 I’m currently working on [Rust cheat - Enchanted](https://github.com/Zebratic/Enchanted-Rust), [Pysik.club v2](https://github.com/pys1k/pysik.club-v2).
 <details>
   <summary> - 📫 Socials:</summary>
   <a href="https://www.youtube.com/pysik">Youtube</a><br>
   <a href="https://discord.com/users/216974427248787458">Discord</a><br>
 </details>
 
-[![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/zebratic)
+[![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/pys1k)
 [![Website](https://img.shields.io/badge/Website-zebratic.xyz-2648ff?style=flat-square&logo=google-chrome)](https://pysik.club)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
