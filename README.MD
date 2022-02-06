@@ -1,4 +1,4 @@
-
+I write code sometimes
 
 <img src="https://discord.c99.nl/widget/theme-4/216974427248787458.png"/>
 
@@ -30,5 +30,5 @@
 </a>
 
 <a href="https://github.com/Pys1k/Pysik.Club-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=CSharpGUI&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pys1k&repo=pysik.club-v2&theme=dark" />
 </a>
