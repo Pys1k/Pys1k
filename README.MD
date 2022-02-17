@@ -1,4 +1,4 @@
-I write code sometimes
+I occasionally write code
 
 <img src="https://discord.c99.nl/widget/theme-4/216974427248787458.png"/>
 
