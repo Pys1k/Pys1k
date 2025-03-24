@@ -2,7 +2,7 @@ I occasionally write code
 
 <img src="https://discord.c99.nl/widget/theme-4/216974427248787458.png"/>
 
-- 🔭 I’m currently working on [Rust cheat - Enchanted](https://github.com/Zebratic/Enchanted-Rust), [Pysik.club v2](https://github.com/pys1k/pysik.club-v2), [Pysik.club Valorant](https://github.com/pys1k/pysik.club-Valorant), [Monolith Scripts](https://github.com/Pys1k/Monolith-scripts).
+- 🔭 I’m currently working on my masters degree! (https://www.chalmers.se/en/departments/cse/).
 <details>
   <summary> - 📫 Socials:</summary>
   <a href="https://www.youtube.com/pysik">Youtube</a><br>
