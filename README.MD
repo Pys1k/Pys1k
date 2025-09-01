@@ -28,6 +28,6 @@ I occasionally write code
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pys1k&show_icons=true&theme=dark&line_height=27" alt="Pysik's github stats"/>
 </a>
 
-<a href="https://github.com/Pys1k/Pysik.Club-v2">
+<!--<a href="https://github.com/Pys1k/Pysik.Club-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pys1k&repo=pysik.club-v2&theme=dark" />
-</a>
+</a>-->
